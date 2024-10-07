@@ -98,7 +98,9 @@ Ans. A Region is a physical location in the world that consists of three or more
 
 DAY-4 (VPC-Virtual Private Cloud)
 ----------
-15.
+15.What is VPC?
+Ans. VPC is a virtual network that allows us to isolate and securely manage resources like EC2 instances,data bases...It provides control over IP addreses,subnets,route tables and security settings. Every region in AWS is having default network and our servers are running on default network. Those networks can be divided into multiple smaller networks, they are called as subnets. 
+  To access VPC we use gateway.
 
 
 
